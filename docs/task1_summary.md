@@ -1,11 +1,5 @@
 # Task-1: GitHub Repo Setup & Video Summary
 
-Created the GitHUb repository with the help of chatGPT.
-followed the instructions and command such as:-
-clone
-add
-commit
-push 
 # Video Summary:-
 Discussed abot GCC:- GNU Compiler COllection
 Understand the term "Silicon Proven" and it's importance.
@@ -37,3 +31,11 @@ Then in testing step our output will be O4 and O4 == O3 == O2 == O1.
 Market:-
 Iwatch, Home Appliances(AC,TV,etc).
 Use of the IC will be at low frequency application ranging from 100-130 MHz.
+
+#GitHub Repo Setup
+Created the GitHUb repository with the help of chatGPT.
+followed the instructions and command such as:-
+clone
+add
+commit
+push 
