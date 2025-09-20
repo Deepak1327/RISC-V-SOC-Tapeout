@@ -57,11 +57,15 @@ All Tools Installed Successfully. Snapshots are attached.
 
 ---
 
-# 🔹 Screenshots
- 
-   - `images/Yosys.png`  
-   - `images/Iverilog.png`  
-   - `images/GTK_Wave.png`  
+## 📷 Snapshots
+
+### Yosys
+![Yosys Version](../images/Yosys.png)
+
+### Iverilog
+![Iverilog Version](../images/Iverilog.png)
+
+### GTKWave
+![GTKWave Version](../images/GTK_Wave.png)
 
 ---
-
