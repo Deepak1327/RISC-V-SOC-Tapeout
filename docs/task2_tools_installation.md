@@ -35,14 +35,15 @@ $ sudo make install
 ```
 yosys -V
 ```
-### 2.Icarus Verilog (iverilog)
+### 2. Icarus Verilog (iverilog)
 ```
 sudo apt-get update
 sudo apt-get install iverilog
+```
 
 ✅ Verified with:
+```
 iverilog -V
-
 ```
 
 ### 3. GTKWave
@@ -50,7 +51,9 @@ iverilog -V
 sudo apt-get update
 sudo apt-get install gtkwave
 
+```
 ✅ Verified with:
+```
 gtkwave
 ```
 
