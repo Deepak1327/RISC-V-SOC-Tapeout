@@ -57,7 +57,7 @@ All Tools Installed Successfully. Snapshots are attached.
 
 ---
 
-# 🔹 Add Screenshots
+# 🔹 Screenshots
  
    - `images/Yosys.png`  
    - `images/Iverilog.png`  
