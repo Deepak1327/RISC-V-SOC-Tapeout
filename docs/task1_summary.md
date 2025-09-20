@@ -18,12 +18,12 @@ Now integration of all the above blocks according to their location and we will 
 Purpose O3 == O2 == O1
 
 Difference between processor and controller.
-micro-processor:- 8085/8086(Only CPU)
-micro-controller:- 8051(CPU with Peripherals)
+Micro-Processor:- 8085/8086(Only CPU)
+Micro-Controller:- 8051(CPU with Peripherals)
  
 Now RTL To GDS
 Floorplanning, Placement, CTS,STA, Routing.
-only Transistors, metal layers, poly layer etc.
+Only Transistors, metal layers, poly layer etc.
 Output file is Graphical Datastream Informaiton Interchange.
 This file has information for Foundry to make the Final IC. This GDSII will go through DRC/LVS checks.
 After checking Design will go for Tapeout, then Tapein Then testing with the help of test board.
@@ -34,8 +34,8 @@ Use of the IC will be at low frequency application ranging from 100-130 MHz.
 
 #GitHub Repo Setup
 Created the GitHUb repository with the help of chatGPT.
-followed the instructions and command such as:-
-clone
-add
-commit
-push 
+Followed the instructions and command such as:-
+Clone
+Add
+Commit
+Push 
