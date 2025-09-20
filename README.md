@@ -15,7 +15,7 @@ Each task is organized with clear documentation, references, and supporting file
 
 ## 📝 Task Summaries
 - [Task 1: GitHub Repo Setup & Video Summary](docs/task1_summary.md)
-
+- [Task 2: Tools Installation & Verification](docs/task2_tools_installation.md)
 ---
 
 ## 🔗 References
